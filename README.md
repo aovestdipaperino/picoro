@@ -1,4 +1,7 @@
 # picoro
+
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/picoro?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/picoro/stargazers)
+
 Saving the code released here: http://dotat.at/cgi/git/picoro.git
 
 For posterity.
